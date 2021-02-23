@@ -63,7 +63,7 @@ class ChaineController extends Controller
         $chaine->slogan=$request->slogan;
         $chaine->urlVideo=$request->urlVideo;
         
-        //enregistrement de la photo
+        //enregistrement de la photoTV
     }
 
     /**
